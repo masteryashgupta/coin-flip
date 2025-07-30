@@ -46,7 +46,7 @@ coin-flip/
 ├── index.html          # Main HTML file
 ├── style.css           # Styles and animations
 ├── script.js           # JavaScript logic for coin flip
-└── assets/             # Optional folder for images or sounds
+└── preview.png         # Preview Image
 ```
 
 ---

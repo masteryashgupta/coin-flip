@@ -244,6 +244,9 @@ body {
         width: 100px;
         height: 100px;
     }
+    #coin-animation {
+        font-size: 1.2em;
+    }
 
     .coin {
         font-size: 1.2em;

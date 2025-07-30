@@ -241,7 +241,6 @@ body {
     }
 
     #coin1, #coin2, #coin-animation {
-        grid-area: auto;
         width: 100px;
         height: 100px;
     }

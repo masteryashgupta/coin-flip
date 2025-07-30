@@ -27,7 +27,7 @@ Try your luck with this beautifully animated Coin Flip game built with HTML, CSS
 
 - **HTML5**
 - **CSS3** (including keyframe animations and media queries)
-- **Vanilla JavaScript**
+- ** J Query**
 
 ---
 

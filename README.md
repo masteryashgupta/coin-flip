@@ -8,7 +8,7 @@ Try your luck with this beautifully animated Coin Flip game built with HTML, CSS
 
 ## 📸 Preview
 
-![Coin Flip Game Screenshot](https://masteryashgupta.github.io/coin-flip/assets/screenshot.png)
+![Coin Flip Game Screenshot](https://masteryashgupta.github.io/coin-flip/preview.png)
 
 ---
 
@@ -27,7 +27,7 @@ Try your luck with this beautifully animated Coin Flip game built with HTML, CSS
 
 - **HTML5**
 - **CSS3** (including keyframe animations and media queries)
-- **Vanilla JavaScript**
+- ** J Query**
 
 ---
 
@@ -46,7 +46,7 @@ coin-flip/
 ├── index.html          # Main HTML file
 ├── style.css           # Styles and animations
 ├── script.js           # JavaScript logic for coin flip
-└── assets/             # Optional folder for images or sounds
+└── preview.png         # Preview Image
 ```
 
 ---
